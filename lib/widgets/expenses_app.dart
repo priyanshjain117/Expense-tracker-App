@@ -21,13 +21,13 @@ class _ExpensesState extends State<ExpensesApp> {
     ),
     Expense(
       title: "title2",
-      amount: 301,
+      amount: 601,
       date: DateTime.now(),
       category: Category.food,
     ),
     Expense(
       title: "title3",
-      amount: 302,
+      amount: 982,
       date: DateTime.now(),
       category: Category.leisure,
     ),
